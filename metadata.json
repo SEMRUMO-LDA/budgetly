@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Orçamentos AORUBRO",
+  "description": "Uma aplicação profissional para criação, gestão e aprovação de orçamentos, baseada na folha de cálculo original. Permite o cálculo automático de margens, mão-de-obra, deslocações e design, facilitando o fluxo de trabalho entre comerciais e gerência.",
+  "requestFramePermissions": []
+}
